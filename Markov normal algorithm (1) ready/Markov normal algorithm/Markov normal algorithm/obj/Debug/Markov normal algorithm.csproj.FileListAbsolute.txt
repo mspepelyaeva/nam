@@ -1,0 +1,38 @@
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.exe.config
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.exe
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov_normal_algorithm.Properties.Resources.resources
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.exe
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov_normal_algorithm.MainMenu.resources
+C:\Users\Margo\Downloads\Markov_normal_algorithm\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.exe.config
+C:\Users\Margo\Downloads\Markov_normal_algorithm\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.exe
+C:\Users\Margo\Downloads\Markov_normal_algorithm\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.pdb
+C:\Users\Margo\Downloads\Markov_normal_algorithm\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.csprojAssemblyReference.cache
+C:\Users\Margo\Downloads\Markov_normal_algorithm\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov_normal_algorithm.MainMenu.resources
+C:\Users\Margo\Downloads\Markov_normal_algorithm\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov_normal_algorithm.Properties.Resources.resources
+C:\Users\Margo\Downloads\Markov_normal_algorithm\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.csproj.GenerateResource.cache
+C:\Users\Margo\Downloads\Markov_normal_algorithm\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.exe
+C:\Users\Margo\Downloads\Markov_normal_algorithm\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.pdb
+D:\users\SPepelyaev\source\repos\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.exe.config
+D:\users\SPepelyaev\source\repos\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.exe
+D:\users\SPepelyaev\source\repos\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.pdb
+D:\users\SPepelyaev\source\repos\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.csprojAssemblyReference.cache
+D:\users\SPepelyaev\source\repos\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov_normal_algorithm.MainMenu.resources
+D:\users\SPepelyaev\source\repos\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov_normal_algorithm.Properties.Resources.resources
+D:\users\SPepelyaev\source\repos\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.csproj.GenerateResource.cache
+D:\users\SPepelyaev\source\repos\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.csproj.CoreCompileInputs.cache
+D:\users\SPepelyaev\source\repos\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.exe
+D:\users\SPepelyaev\source\repos\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.pdb
+C:\Users\Margo\Downloads\Markov normal algorithm (1) ready\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.exe.config
+C:\Users\Margo\Downloads\Markov normal algorithm (1) ready\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.exe
+C:\Users\Margo\Downloads\Markov normal algorithm (1) ready\Markov normal algorithm\Markov normal algorithm\bin\Debug\Markov normal algorithm.pdb
+C:\Users\Margo\Downloads\Markov normal algorithm (1) ready\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.csprojAssemblyReference.cache
+C:\Users\Margo\Downloads\Markov normal algorithm (1) ready\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov_normal_algorithm.MainMenu.resources
+C:\Users\Margo\Downloads\Markov normal algorithm (1) ready\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov_normal_algorithm.Properties.Resources.resources
+C:\Users\Margo\Downloads\Markov normal algorithm (1) ready\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.csproj.GenerateResource.cache
+C:\Users\Margo\Downloads\Markov normal algorithm (1) ready\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.exe
+C:\Users\Margo\Downloads\Markov normal algorithm (1) ready\Markov normal algorithm\Markov normal algorithm\obj\Debug\Markov normal algorithm.pdb
